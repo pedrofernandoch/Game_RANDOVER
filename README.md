@@ -1,2 +1,2 @@
-# Gmae_RANDOVER
+# Game_RANDOVER
 A game made with Construct 2
